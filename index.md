@@ -1,6 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Inspirations](#Inspirations)
 
 ## Overview
 
