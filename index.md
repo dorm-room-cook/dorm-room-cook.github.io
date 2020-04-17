@@ -16,7 +16,7 @@ The website itself will have a display of all the recipes recorded on it. UH use
 
 ## Mockup-Pages
 ### Landing Page
-<img src="images/landingpage.png"/>
+[<img src="images/landingpage.png"/>](http://dormroomcooks.meteorapp.com/#/)
 
 ### Add Recipe Page
 <img src="images/addrecipe.png"/>
