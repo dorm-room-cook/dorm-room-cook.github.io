@@ -4,7 +4,7 @@
 
 * [Mockup-Pages](#Mockup-Pages)
 
-* [Development History](#Development)
+* [Development History](#Development-History)
 
 * [Inspirations](#Inspirations)
 
@@ -24,7 +24,7 @@ The website itself will have a display of all the recipes recorded on it. UH use
 ### List Vendor Items Page
 <img src="images/listitems.PNG"/>
 
-## Development History
+## Development-History
 
 ### M1 Project Page
 
