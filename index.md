@@ -1,8 +1,8 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Mockup Pages](#Mockup Pages)
-* [Project Progress](#Project Progress)
+* [MockupPages](#MockupPages)
+* [ProjectProgress](#ProjectProgress)
 * [Inspirations](#Inspirations)
 
 
