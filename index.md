@@ -1,8 +1,11 @@
 ## Table of contents
 
 * [Overview](#overview)
+
 * [Mockup-Pages](#Mockup-Pages)
-* [Project-Progress](#Project-Progress)
+
+* [Development History](#Development History)
+
 * [Inspirations](#Inspirations)
 
 
@@ -21,7 +24,7 @@ The website itself will have a display of all the recipes recorded on it. UH use
 ### List Vendor Items Page
 <img src="images/listitems.PNG"/>
 
-## Project-Progress
+## Development History
 
 ### M1 Project Page
 
