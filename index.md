@@ -2,6 +2,8 @@
 
 * [Overview](#overview)
 * [Inspirations](#Inspirations)
+* [Mockup Pages](#Mockup Pages)
+* [Project Progress](#Project Progress)
 
 ## Overview
 
@@ -17,6 +19,14 @@ The website itself will have a display of all the recipes recorded on it. UH use
 
 ### List Vendor Items Page
 <img src="images/listitems.PNG"/>
+
+## Project Progress
+
+### M1 Project Page
+https://github.com/dorm-room-cook/dorm-room-cook/projects/1
+
+### M2 Project Page
+https://github.com/dorm-room-cook/dorm-room-cook/projects/2
 
 ## Inspirations
 Below will be screenshots of varying websites that will be used as a basis for Dorm Room Cook
