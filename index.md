@@ -19,13 +19,13 @@ The website itself will have a display of all the recipes recorded on it. UH use
 [<img src="images/landingpage.png"/>](http://dormroomcooks.meteorapp.com/#/)
 
 ### Add Recipe Page
-<img src="images/addrecipe.png"/>
+[<img src="images/addrecipe.png"/>](http://dormroomcooks.meteorapp.com/#/add)
 
 ### List Recipes Page
-<img src="images/listrecipes.png"/>
+[<img src="images/listrecipes.png"/>](http://dormroomcooks.meteorapp.com/#/recipes)
 
 ### Add Vendor Item Page
-<img src="images/addvendoritem.PNG"/>
+[<img src="images/addvendoritem.PNG"/>](http://dormroomcooks.meteorapp.com/#/additem)
 
 ### List Vendor Items Page
 <img src="images/listitems.PNG"/>
