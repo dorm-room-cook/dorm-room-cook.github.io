@@ -1,9 +1,10 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Inspirations](#Inspirations)
 * [Mockup Pages](#Mockup Pages)
 * [Project Progress](#Project Progress)
+* [Inspirations](#Inspirations)
+
 
 ## Overview
 
