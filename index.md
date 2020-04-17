@@ -9,6 +9,15 @@ The goals of the Dorm Room Cook site is to provide students with healthy and ref
 
 The website itself will have a display of all the recipes recorded on it. UH users will be able to login and create a public profile and add recipes to the website to share with others. Each recipe will provide cooking instructions and ingredients in addition to the details in the goals above. 
 
+## Mockup Pages
+# Landing Page
+
+# Add Vendor Item Page
+<img src="images/addvendoritem.PNG"/>
+
+# List Vendor Items Page
+<img src="images/listitems.PNG"/>
+
 ## Inspirations
 Below will be screenshots of varying websites that will be used as a basis for Dorm Room Cook
 
