@@ -1,8 +1,8 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [MockupPages](#MockupPages)
-* [ProjectProgress](#ProjectProgress)
+* [Mockup-Pages](#Mockup-Pages)
+* [Project-Progress](#Project-Progress)
 * [Inspirations](#Inspirations)
 
 
@@ -12,7 +12,7 @@ The goals of the Dorm Room Cook site is to provide students with healthy and ref
 
 The website itself will have a display of all the recipes recorded on it. UH users will be able to login and create a public profile and add recipes to the website to share with others. Each recipe will provide cooking instructions and ingredients in addition to the details in the goals above. 
 
-## Mockup Pages
+## Mockup-Pages
 ### Landing Page
 
 ### Add Vendor Item Page
@@ -21,7 +21,7 @@ The website itself will have a display of all the recipes recorded on it. UH use
 ### List Vendor Items Page
 <img src="images/listitems.PNG"/>
 
-## Project Progress
+## Project-Progress
 
 ### M1 Project Page
 https://github.com/dorm-room-cook/dorm-room-cook/projects/1
