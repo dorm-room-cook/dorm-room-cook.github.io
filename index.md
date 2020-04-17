@@ -19,6 +19,13 @@ The website itself will have a display of all the recipes recorded on it. UH use
 
 ## Mockup-Pages
 ### Landing Page
+<img src="images/landingpage.png"/>
+
+### Add Recipe Page
+<img src="images/addrecipe.png"/>
+
+### List Recipes Page
+<img src="images/listrecipes.png"/>
 
 ### Add Vendor Item Page
 <img src="images/addvendoritem.PNG"/>
