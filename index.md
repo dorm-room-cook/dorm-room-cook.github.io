@@ -6,6 +6,8 @@
 
 * [Development History](#Development-History)
 
+* [About the team](#About-the-team)
+
 ## Overview
 
 The goals of the Dorm Room Cook site is to provide students with healthy and refined recipes to improve their diet, while also offering convenient ways to choose their meals by including information such as: price, time needed to prepare, and dietary restrictions. 
@@ -43,5 +45,9 @@ The website itself will have a display of all the recipes recorded on it. UH use
 <img src="images/M2.png"/>
 
 [Click here to see the M2 Project Page](https://github.com/dorm-room-cook/dorm-room-cook/projects/2)
+
+## About-the-team
+<img src="images/theteam.png"/>
+
 
 
