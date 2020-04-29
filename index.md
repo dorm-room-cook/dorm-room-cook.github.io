@@ -2,7 +2,7 @@
 
 * [Overview](#overview)
 
-* [Mockup-Pages](#Mockup-Pages)
+* [User-Guide](#User-Guide)
 
 * [Development History](#Development-History)
 
@@ -16,21 +16,34 @@ The website itself will have a display of all the recipes recorded on it. UH use
 
 [Click here for the app](http://dormroomcooks.meteorapp.com/#/)
 
-## Mockup-Pages
+## User Guide
 ### Landing Page
-[<img src="images/landingpage.png"/>](http://dormroomcooks.meteorapp.com/#/)
-
-### Add Recipe Page
-[<img src="images/addrecipe.png"/>](http://dormroomcooks.meteorapp.com/#/add)
+[<img src="images/landing-page.png"/>](http://dormroomcooks.meteorapp.com/#/)
 
 ### List Recipes Page
-[<img src="images/listrecipes.png"/>](http://dormroomcooks.meteorapp.com/#/recipes)
+[<img src="images/recipes-page.png"/>](http://dormroomcooks.meteorapp.com/#/recipes)
 
-### Add Vendor Item Page
-[<img src="images/addvendoritem.PNG"/>](http://dormroomcooks.meteorapp.com/#/additem)
+### Add Recipe Page
+[<img src="images/my-recipes.png"/>](http://dormroomcooks.meteorapp.com/#/myrecipes)
 
-### List Vendor Items Page
-<img src="images/listitems.PNG"/>
+### Recipe Details Modal
+<img src="images/recipes-details.png"/>
+
+### List Vendors Page
+[<img src="images/vendors-page.png"/>](http://dormroomcooks.meteorapp.com/#/vendors)
+
+### Vendors Landing
+<img src="images/vendors-landing.png"/>
+
+### My Vendor Items Page
+[<img src="images/my-ingredients.png"/>](http://dormroomcooks.meteorapp.com/#/myitems)
+
+### My Vendor Items Page
+<img src="images/add-ingredients.png"/>
+
+### About Us Modal
+<img src="images/about-us.png"/>
+
 
 ## Development-History
 
@@ -42,9 +55,17 @@ The website itself will have a display of all the recipes recorded on it. UH use
 
 ### M2 Project Page
 
+M2 was focused on adding functionality to our recipes and vendors pages. Nearly 60 recipes and 15 unique vendors have been added to show realistic data. 
+
+As a side note the app has been redesigned to support mobile devices with fully responsive pages. 
+
 <img src="images/M2.png"/>
 
 [Click here to see the M2 Project Page](https://github.com/dorm-room-cook/dorm-room-cook/projects/2)
+
+### M3 Project Page
+
+[Click here to see the M3 Project Page](https://github.com/dorm-room-cook/dorm-room-cook/projects/2)
 
 ## About-the-team
 <img src="images/theteam.png"/>
