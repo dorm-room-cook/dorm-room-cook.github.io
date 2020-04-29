@@ -16,6 +16,8 @@ The website itself will have a display of all the recipes recorded on it. UH use
 
 [Click here for the app](http://dormroomcooks.meteorapp.com/#/)
 
+[Click here for the app repo](https://github.com/dorm-room-cook/dorm-room-cook)
+
 ## User Guide
 ### Landing Page
 [<img src="images/landing-page.png"/>](http://dormroomcooks.meteorapp.com/#/)
@@ -62,7 +64,7 @@ M2 was focused on adding functionality to our recipes and vendors pages. Nearly 
 
 As a side note the app has been redesigned to support mobile devices with fully responsive pages. 
 
-<img src="images/M2.png"/>
+<img src="images/updated-m2.png"/>
 
 [Click here to see the M2 Project Page](https://github.com/dorm-room-cook/dorm-room-cook/projects/2)
 
