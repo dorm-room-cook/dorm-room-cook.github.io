@@ -33,13 +33,16 @@ The website itself will have a display of all the recipes recorded on it. UH use
 [<img src="images/vendors-page.png"/>](http://dormroomcooks.meteorapp.com/#/vendors)
 
 ### Vendors Landing
-<img src="images/vendors-landing.png"/>
+<img src="images/vendor-landing.png"/>
 
 ### My Vendor Items Page
 [<img src="images/my-ingredients.png"/>](http://dormroomcooks.meteorapp.com/#/myitems)
 
-### My Vendor Items Page
+### Add Vendor Items Modal
 <img src="images/add-ingredients.png"/>
+
+### Edit Item Page
+<img src="images/edit-item.png"/>
 
 ### About Us Modal
 <img src="images/about-us.png"/>
