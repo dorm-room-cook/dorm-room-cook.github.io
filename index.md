@@ -70,7 +70,9 @@ As a side note the app has been redesigned to support mobile devices with fully 
 
 ### M3 Project Page
 
-[Click here to see the M3 Project Page](https://github.com/dorm-room-cook/dorm-room-cook/projects/2)
+<img src="images/M3.png"/>
+
+[Click here to see the M3 Project Page](https://github.com/dorm-room-cook/dorm-room-cook/projects/3)
 
 ## About-the-team
 <img src="images/theteam.png"/>
