@@ -54,7 +54,7 @@ The website itself will have a display of all the recipes recorded on it. UH use
 
 ### M1 Project Page
 
-<img src="images/M1.png"/>
+[<img src="images/M1.png"/>](https://github.com/dorm-room-cook/dorm-room-cook/projects/1)
 
 [Click here to see the M1 Project Page](https://github.com/dorm-room-cook/dorm-room-cook/projects/1)
 
@@ -64,13 +64,13 @@ M2 was focused on adding functionality to our recipes and vendors pages. Nearly 
 
 As a side note the app has been redesigned to support mobile devices with fully responsive pages. 
 
-<img src="images/updated-m2.png"/>
+[<img src="images/updated-m2.png"/>](https://github.com/dorm-room-cook/dorm-room-cook/projects/2)
 
 [Click here to see the M2 Project Page](https://github.com/dorm-room-cook/dorm-room-cook/projects/2)
 
 ### M3 Project Page
 
-<img src="images/M3.png"/>
+[<img src="images/M3.png"/>](https://github.com/dorm-room-cook/dorm-room-cook/projects/3)
 
 [Click here to see the M3 Project Page](https://github.com/dorm-room-cook/dorm-room-cook/projects/3)
 
