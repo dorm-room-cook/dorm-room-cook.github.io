@@ -65,12 +65,12 @@ manually swipe or scroll the mouse.
 <img src="images/about-us.png"/>
 
 ### All Recipes Page
-<img src="images/all-recipes.png"/>]
+<img src="images/all-recipes.png"/>
 
 The Recipes section of the app can be accessed by clicking the Recipes tab at the top of the page.
 Once clicked, the page displays all available recipes.
 
-<img src="images/all-recipes-search.png"/>]
+<img src="images/all-recipes-search.png"/>
 
 If searching for a specific recipe, the search bar at the top of the page is available. Likewise,
 if lost half-way down the page hit the button to auto-scroll back to the top.
@@ -155,9 +155,9 @@ As a side note the app has been redesigned to support mobile devices with fully 
 
 ### M3 Project Page
 
-[<img src="images/M3-projects.png"/>](https://github.com/dorm-room-cook/dorm-room-cook/projects/)
+[<img src="images/M3-projects.png"/>](https://github.com/dorm-room-cook/dorm-room-cook/projects/3)
 
-[Click here to see the M3-closed-out](https://github.com/dorm-room-cook/dorm-room-cook/projects/3)
+[Click here to see the M3 Project Page](https://github.com/dorm-room-cook/dorm-room-cook/projects/3)
 
 ## About-the-team
 <img src="images/theteam.png"/>
