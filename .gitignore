@@ -1,0 +1,10 @@
+# Ignore IntelliJ Project files.
+*.iml
+.idea
+
+# If on a Mac, ignore DS_Store.
+.DS_Store
+
+# Build node_modules locally, ignore errors.
+node_modules
+npm-debug.log
